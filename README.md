@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SoukupOndrej
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP and Databases
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram: soukup_ondra_
+- 📫 Reach me on instagram: @soukup_ondra_
 
 <!---
 SoukupOndrej/SoukupOndrej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
