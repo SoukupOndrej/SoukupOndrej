@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoukupOndrej
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning PHP and Databases
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram: soukup_ondra_
 
